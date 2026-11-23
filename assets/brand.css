@@ -1,0 +1,8 @@
+:root {
+  --brand-primary: #773FFF;
+  --brand-accent: #FCAF23;
+  --brand-bg: #FFFFFF;
+  --brand-text: #242424;
+  --font-heading: 'Bricolage Grotesque', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
