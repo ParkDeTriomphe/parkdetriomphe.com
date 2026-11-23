@@ -33,6 +33,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--brand-accent); 
 .stage-inner { width: 100%; max-width: 36rem; animation: rise 0.7s ease-out both; }
 .logo { display: block; max-width: min(16rem, 70%); max-height: 7rem; width: auto; height: auto; margin: 0 auto 2rem; }
 .brand-name { font: 700 2.25rem/1.15 var(--font-heading); margin: 0 0 1rem; }
+.brand-name--primary { color: var(--brand-primary); }
 .tagline { font: 600 1.375rem/1.35 var(--font-heading); margin: 0 0 1rem; }
 .description { margin: 0 auto 1.75rem; max-width: 32rem; }
 .badge {
